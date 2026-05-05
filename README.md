@@ -1,7 +1,7 @@
 # Terminal Quiz Game
 
 A fully functional, terminal-based quiz game built in Python.
-Developed in week 1 of learning the language,  no frameworks,
+Developed in week 2 of learning the language,  no frameworks,
 no tutorials, just core Python logic.
 
 ---
